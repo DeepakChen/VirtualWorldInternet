@@ -22,7 +22,7 @@ The VirtualWorldInternet project is a 3D rendering and web crawling project that
 
 The VirtualWorldInternet project is currently under development. The project has completed the following tasks:
 
-1. Set up the 3D rendering environment using Unity.
+1. Set up the 3D rendering environment using Ursina.
 2. Set up the web crawling environment using Scrapy.
 3. Collected information about the virtual world from the Internet using web crawling.
 4. Analyzed the collected information and created a 3D model of the virtual world.
